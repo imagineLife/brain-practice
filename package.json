@@ -1,0 +1,24 @@
+{
+  "name": "brain-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "one": "node ./1/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineLife/brain-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imagineLife/brain-practice/issues"
+  },
+  "homepage": "https://github.com/imagineLife/brain-practice#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
+}
