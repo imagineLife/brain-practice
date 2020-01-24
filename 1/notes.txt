@@ -1,0 +1,5 @@
+Exclusive - Or
+https://en.wikipedia.org/wiki/Exclusive_or
+
+inputs that are the same = 0
+inputs that are diff     = 1
